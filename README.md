@@ -2,7 +2,10 @@
 
 ### Problem 1: Find the Maximum and Minimum Element in an Array
 
-## solution [Solution](https://github.com/DarkRai087/DSA-365-Day-DarkRai/tree/main/Array/C%2B%2B/Question1)
+| C++    | Java   | Javascript |
+| ------ | ------ | ---------- |
+| data   | Data 2 | Data 3     |
+| Data 4 | Data 5 | Data 6     |
 
 Given an array of integers, find the maximum and minimum values in the array.
 
