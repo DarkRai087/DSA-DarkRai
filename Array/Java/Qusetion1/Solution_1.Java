@@ -1,6 +1,7 @@
 import java.util.Arrays;
 
 public class Solution_1 {
+    
     public static void main(String[] args) {
         int[] arr = { 5, 2, 9, 1, 7 };
 
