@@ -49,71 +49,73 @@ Write a function to determine if the array is sorted in ascending order.
 
 ## Questions
 
-1. Find the sum of all elements in an array.  
-2. Find the largest and smallest element in an array without sorting.  
-3. Check if an array contains a specific element.  
-4. Count the number of even and odd numbers in an array.  
-5. Find the second-largest element in an array.  
-6. Calculate the frequency of elements in an array.  
-7. Remove duplicates from a sorted array.  
-8. Find all pairs of elements in an array that sum to a specific value.  
-9. Rotate an array by one position to the left.  
-10. Find the first repeating element in an array.  
-11. Check if two arrays are equal or not.  
-12. Find the common elements between two arrays.  
-13. Merge two sorted arrays into one sorted array.  
-14. Check if an array is a palindrome.  
-15. Remove all occurrences of a specific element from an array.  
-16. Split an array into two parts with equal sums.  
-17. Find the maximum sum of a subarray of size k.  
-18. Find the difference between the largest and smallest elements in an array.  
-19. Replace each element in an array with the product of every other element.  
-20. Find all subarrays of a given array.  
+1. Find the sum of all elements in an array.
+2. Find the largest and smallest element in an array without sorting.
+3. Check if an array contains a specific element.
+4. Count the number of even and odd numbers in an array.
+5. Find the second-largest element in an array.
+6. Calculate the frequency of elements in an array.
+7. Remove duplicates from a sorted array.
+8. Find all pairs of elements in an array that sum to a specific value.
+9. Rotate an array by one position to the left.
+10. Find the first repeating element in an array.
+11. Check if two arrays are equal or not.
+12. Find the common elements between two arrays.
+13. Merge two sorted arrays into one sorted array.
+14. Check if an array is a palindrome.
+15. Remove all occurrences of a specific element from an array.
+16. Split an array into two parts with equal sums.
+17. Find the maximum sum of a subarray of size k.
+18. Find the difference between the largest and smallest elements in an array.
+19. Replace each element in an array with the product of every other element.
+20. Find all subarrays of a given array.
 
 ---
 
-21. Implement Kadane’s algorithm to find the maximum sum of a contiguous subarray.  
-22. Find the longest subarray with a sum equal to a given value.  
-23. Find the majority element in an array.  
-24. Rearrange an array so that even and odd numbers appear alternately.  
-25. Find the longest increasing subsequence in an array.  
-26. Find the smallest positive missing number in an array.  
-27. Implement the "Trapping Rainwater" problem.  
-28. Partition an array into two subsets such that the difference between their sums is minimal.  
-29. Find the equilibrium index of an array.  
-30. Implement the "Maximum Product Subarray" problem.  
-31. Sort an array using the QuickSort algorithm.  
-32. Find the number of subarrays with an odd sum.  
-33. Rotate an array to the left by k positions.  
-34. Rearrange an array to alternate positive and negative numbers.  
-35. Find the "Leaders" in an array (elements greater than all elements to their right).  
-36. Find the maximum circular sum of a subarray.  
-37. Count the number of inversions in an array.  
-38. Find the maximum difference between two elements in an array such that the larger element comes after the smaller.  
-39. Find the longest contiguous subarray containing equal numbers of 0s and 1s.  
-40. Implement a binary search on a rotated sorted array.  
+21. Implement Kadane’s algorithm to find the maximum sum of a contiguous subarray.
+22. Find the longest subarray with a sum equal to a given value.
+23. Find the majority element in an array.
+24. Rearrange an array so that even and odd numbers appear alternately.
+25. Find the longest increasing subsequence in an array.
+26. Find the smallest positive missing number in an array.
+27. Implement the "Trapping Rainwater" problem.
+28. Partition an array into two subsets such that the difference between their sums is minimal.
+29. Find the equilibrium index of an array.
+30. Implement the "Maximum Product Subarray" problem.
+31. Sort an array using the QuickSort algorithm.
+32. Find the number of subarrays with an odd sum.
+33. Rotate an array to the left by k positions.
+34. Rearrange an array to alternate positive and negative numbers.
+35. Find the "Leaders" in an array (elements greater than all elements to their right).
+36. Find the maximum circular sum of a subarray.
+37. Count the number of inversions in an array.
+38. Find the maximum difference between two elements in an array such that the larger element comes after the smaller.
+39. Find the longest contiguous subarray containing equal numbers of 0s and 1s.
+40. Implement a binary search on a rotated sorted array.
 
 ---
 
-41. Implement the "Median of Two Sorted Arrays" problem.  
-42. Find the "Longest Substring Without Repeating Characters."  
-43. Find the first missing positive number in an unsorted array.  
-44. Implement a Merge Sort to count inversions in an array.  
-45. Solve the "4Sum" problem to find quadruplets in an array that sum to a given value.  
-46. Find the "Longest Palindromic Substring" in an array.  
-47. Find the "Minimum Number of Platforms" required for trains at a station.  
-48. Implement the "Subset Sum Problem" using recursion.  
-49. Solve the "Kth Largest Element in a Stream" problem.  
-50. Solve the "Count Smaller Numbers After Self" problem.  
-51. Implement a Segmented Sieve to find prime numbers in a range.  
-52. Solve the "Maximum XOR of Two Numbers in an Array" problem.  
-53. Implement the "Largest Rectangle in Histogram" problem.  
-54. Find the "Maximum Length of a Subarray With Positive Product."  
-55. Solve the "Count of Range Sum" problem.  
-56. Implement the "Shortest Unsorted Continuous Subarray" problem.  
-57. Solve the "Split Array Largest Sum" problem.  
-58. Find the "Best Time to Buy and Sell Stock with Cooldown."  
-59. Solve the "Number of Subsequences That Satisfy the Given Sum Condition."  
-60. Solve the "Max Chunks to Make Sorted II" problem.  
+41. Implement the "Median of Two Sorted Arrays" problem.
+42. Find the "Longest Substring Without Repeating Characters."
+43. Find the first missing positive number in an unsorted array.
+44. Implement a Merge Sort to count inversions in an array.
+45. Solve the "4Sum" problem to find quadruplets in an array that sum to a given value.
+46. Find the "Longest Palindromic Substring" in an array.
+47. Find the "Minimum Number of Platforms" required for trains at a station.
+48. Implement the "Subset Sum Problem" using recursion.
+49. Solve the "Kth Largest Element in a Stream" problem.
+50. Solve the "Count Smaller Numbers After Self" problem.
+51. Implement a Segmented Sieve to find prime numbers in a range.
+52. Solve the "Maximum XOR of Two Numbers in an Array" problem.
+53. Implement the "Largest Rectangle in Histogram" problem.
+54. Find the "Maximum Length of a Subarray With Positive Product."
+55. Solve the "Count of Range Sum" problem.
+56. Implement the "Shortest Unsorted Continuous Subarray" problem.
+57. Solve the "Split Array Largest Sum" problem.
+58. Find the "Best Time to Buy and Sell Stock with Cooldown."
+59. Solve the "Number of Subsequences That Satisfy the Given Sum Condition."
+60. Solve the "Max Chunks to Make Sorted II" problem.
 
 ---
+
+27. Remove Element js
