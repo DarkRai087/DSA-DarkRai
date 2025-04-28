@@ -18,10 +18,15 @@
 
 // Explanation: There are 2 digits in 14.
 
-function numberToArray(n) {
-   let a =String(n).split('').map(Number); //number to arr
-    let length= a.length // length of the arr
-         return length  // return length 
-  }
-  console.log( numberToArray(14));
+
   
+
+function count(n){
+   
+
+      let cnt = Math.floor(Math.log10(n)+1)
+ 
+   return cnt
+}
+let e= 123
+console.log(count(e));
