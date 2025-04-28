@@ -1,26 +1,19 @@
-let palindrome = (n)=>{
-let revNum= 0
-let dup= n;
-while(n>0){
-    let lastDigit=n%10
-    revNum= (revNum*10)+lastDigit
-    n=Math.floor(n/10)
-    if(dup==revNum){
-        return true
-    }else{
-        return false
-    }
-}
-}
-let num= 444
-function p(num){
-    if(palindrome(num)){
-        console.log(num+" is a palindrome");
-        
-    }else {
-        console.log(num+" is not a palindrome");
-        
-    }
+function palindrome(n)
+{
+    let og=n
+    let rev =0
+ while(n>0){
+    ld=n%10
+    n= Math.floor(n/10)
+    rev= rev*10+ld
+ }   
+if(og==rev){
+    return "it is a palindrome"
     
+}else
+{
+    return "its not a palindrome"
 }
-p(num)
+}
+let a =44;
+console.log(palindrome(a));

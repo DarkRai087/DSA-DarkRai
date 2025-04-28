@@ -17,11 +17,17 @@
 
 
 function reverse(n){
-    let num= 0;
+    let rev= 0;
     while(n>0){
-        let nums2= n%10
-        let numRs= (numRs*10)+nums2 
-        
+      
+let ld= n%10
+       n=Math.floor(n/10)
+       rev= rev*10+ld
+       
+
+
     }
-     
-}            
+     return rev
+}   
+let n = 7832         
+console.log(reverse(77));
